@@ -1,4 +1,4 @@
-# Rock-paper-sciccor-game
+# Rock-paper-scissor-game
 
 import random
 
